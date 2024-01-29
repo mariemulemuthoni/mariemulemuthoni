@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋, I'm Marie Mule</h1>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🔭 &nbsp; I’m currently working on **my portfolio website**
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about Data Analytics, Digital Marketing, Cloud Computing, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; My hobbies : Reading books, watching Formula 1 and spending time with friends and family.
 
-<h3> 🛠 &nbsp;Tech Stack : Languages and Tools</h3>
+<h2> 🛠 &nbsp;Tech Stack : Languages and Tools</h2>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -41,6 +41,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariemulemuthoni&theme=buefy&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariemulemuthoni&count_private=true&theme=react&hide_border=true" />
 </a>
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mariemulemuthoni&theme=react&no-frame=true&no-bg=true&margin-w=4)
 
 <br/>
 
