@@ -1,14 +1,15 @@
-<h2> Hey there! I'm Marie Mule.</h2>
+<h1 align="center">Hi there!👋, I'm Marie Mule</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🔭 &nbsp; I’m currently working on **my portfolio website**
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Informatics and Computer Science at Strathmore University.
-- 💼 &nbsp;
+- 💼 &nbsp; Currently looking for internships and job opportunites.
 - 🌱 &nbsp; Learning more about Data Analytics, Digital Marketing, Cloud Computing, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; My hobbies : Reading books, watching Formula 1 and spending time with friends and family.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack : Languages and Tools</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -26,12 +27,19 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google%20colab)
+- 🤖 &nbsp;
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![PyTorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=pytorch)
+  ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit%20learn)
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/mariemulemuthoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariemulemuthoni&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariemulemuthoni&theme=buefy&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariemulemuthoni&count_private=true&theme=react&hide_border=true" />
 </a>
 
 <br/>
