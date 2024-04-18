@@ -2,12 +2,12 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🔭 &nbsp; I’m currently working on **my portfolio website**
+- 🔭 &nbsp; I’m currently working on **Utibu Health - an application for ordering and delivering medicine to patients with chronic diseases**
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Informatics and Computer Science at Strathmore University.
 - 💼 &nbsp; Currently looking for internships and job opportunites.
-- 🌱 &nbsp; Learning more about Data Analytics, Digital Marketing, Cloud Computing, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; My hobbies : Reading books, watching Formula 1 and spending time with friends and family.
+- 🌱 &nbsp; Learning more about Data Analytics, Cloud Computing, Machine Learning and Artificial Intelligence.
+- ✍️ &nbsp; My hobbies : Watching Formula 1, watching documentaries, docuseries, TV shows and movies and spending time with friends and family.
 
 <h2> 🛠 &nbsp;Tech Stack : Languages and Tools</h2>
 
