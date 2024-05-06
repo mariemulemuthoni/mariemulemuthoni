@@ -1,15 +1,14 @@
-<h1 align="center">Hi there!👋, I'm Marie Mule</h1>
+### Hi,I'm Marie! 
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+💻 Software Engineer I - making headway in my learning and journey in tech<br/>
+🔍 Exploring new technologies and developing software solutions.<br/>
+🎓 Recent [Informatics and Computer Science](https://strathmore.edu/bachelor-of-science-in-informatics-and-computer-science/) graduate from Strathmore University, Nairobi.<br/>
+💼 Open to work: Currently looking for internships and job opportunites.<br/>
+🔨 In-Progress Project: **Utibu Health - an application for ordering and delivering medicine to patients with chronic illnesses and conditions**<br/>
+🧐 Currently learning [data analytics by Google](https://www.coursera.org/google-certificates/data-analytics-certificate).<br/>
 
-- 🔭 &nbsp; I’m currently working on **Utibu Health - an application for ordering and delivering medicine to patients with chronic diseases**
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Informatics and Computer Science at Strathmore University.
-- 💼 &nbsp; Currently looking for internships and job opportunites.
-- 🌱 &nbsp; Learning more about Data Analytics, Cloud Computing, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; My hobbies : Watching Formula 1, watching documentaries, docuseries, TV shows and movies and spending time with friends and family.
-
-<h2> 🛠 &nbsp;Tech Stack : Languages and Tools</h2>
+<!--Github Stats from https://github.com/anuraghazra/github-readme-stats-->
+[![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariemulemuthoni&show_icons=true&theme=catppuccin_latte)](https://github.com/mariemulemuthoni/github-readme-stats)
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
