@@ -1,56 +1,53 @@
-### Hi,I'm Marie! 
+### 👋 Hi,I'm Marie! 
 
-💻 Software Engineer I - making headway in my learning and journey in tech<br/>
+👩🏻‍💻 Software Engineer I - making headway in my learning and journey in tech<br/>
 🔍 Exploring new technologies and developing software solutions.<br/>
 🎓 Recent [Informatics and Computer Science](https://strathmore.edu/bachelor-of-science-in-informatics-and-computer-science/) graduate from Strathmore University, Nairobi.<br/>
 💼 Open to work: Currently looking for internships and job opportunites.<br/>
 🔨 In-Progress Project: **Utibu Health - an application for ordering and delivering medicine to patients with chronic illnesses and conditions**<br/>
-🧐 Currently learning [data analytics by Google](https://www.coursera.org/google-certificates/data-analytics-certificate).<br/>
+🧐 Currently learning [data analytics by Google](https://www.coursera.org/google-certificates/data-analytics-certificate).<br/><br/>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marie-m-mule-955844242/) 
 
 <!--Github Stats from https://github.com/anuraghazra/github-readme-stats-->
-[![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariemulemuthoni&show_icons=true&theme=catppuccin_latte)](https://github.com/mariemulemuthoni/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=mariemulemuthoni&show_icons=true&theme=catppuccin_latte&hide_border=false&count_private=true)]<br/>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google%20colab)
-- 🤖 &nbsp;
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-  ![PyTorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=pytorch)
-  ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit%20learn)
+# 💻 Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariemulemuthoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariemulemuthoni&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariemulemuthoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/mariemulemuthoni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariemulemuthoni&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariemulemuthoni&theme=buefy&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariemulemuthoni&count_private=true&theme=react&hide_border=true" />
-</a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mariemulemuthoni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mariemulemuthoni&theme=react&no-frame=true&no-bg=true&margin-w=4)
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=mariemulemuthoni&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/marie-m-mule-955844242/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marie%20Muthoni%20Mule-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mariemule.tech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mariemule.tech@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:mariemule.tech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mariemule.tech@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Marie Mule Muthoni](https://github.com/mariemulemuthoni)
