@@ -1,11 +1,9 @@
 ### 👋 Hi,I'm Marie! 
 
-👩🏻‍💻 Software Engineer I - making headway in my learning and journey in tech<br/>
 🔍 Exploring new technologies and developing software solutions.<br/>
 🎓 Recent [Informatics and Computer Science](https://strathmore.edu/bachelor-of-science-in-informatics-and-computer-science/) graduate from Strathmore University, Nairobi.<br/>
 💼 Open to work: Currently looking for internships and job opportunites.<br/>
-🔨 In-Progress Project: **Utibu Health - an application for ordering and delivering medicine to patients with chronic illnesses and conditions**<br/>
-🧐 Currently learning [data analytics by Google](https://www.coursera.org/google-certificates/data-analytics-certificate).<br/><br/>
+🧐 Currently learning [Artificial Intelligence - Foundational by AWS](https://aws.amazon.com/certification/certified-ai-practitioner/).<br/><br/>
 
 ## 🌐 Socials
 📫 How to reach me **mariemule.tech@gmail.com**<br/><br/>
